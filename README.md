@@ -9,8 +9,6 @@ https://user-images.githubusercontent.com/36057651/178196711-deb43068-fb96-436c-
 
 Next tasks are to:
  - continue updating the UI
- - create a second horizontal list for watched anime
-
  - custom images per card
 
 More about this app will be documented soon!
