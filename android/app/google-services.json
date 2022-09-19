@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "736604372915",
+    "project_id": "anime-list-2b83a",
+    "storage_bucket": "anime-list-2b83a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736604372915:android:bcfd0dea297242682755c6",
+        "android_client_info": {
+          "package_name": "com.example.anime_lists"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736604372915-kvj615285cmmms0euthnm82o5vmq6u7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFMF5Jiy3qeWk6xkfAVybrU3JyVDYIikk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736604372915-kvj615285cmmms0euthnm82o5vmq6u7j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "736604372915-s6gg961j3j3i1tjss2r2nt58egbtvscv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

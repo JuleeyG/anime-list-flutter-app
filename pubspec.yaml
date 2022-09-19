@@ -1,0 +1,38 @@
+name: anime_lists
+description: Adds to or just displays your list of anime
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  firebase_core: ^1.17.1
+  cloud_firestore: ^3.1.17
+  flutter_rating_bar: ^4.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - images/scaffold-background.jpg
+    - images/avatar-icon.jpg
+  fonts:
+    - family: Anton
+      fonts:
+        - asset: fonts/Anton-Regular.ttf
+    - family: Sora
+      fonts:
+        - asset: fonts/Sora-VariableFont_wght.ttf
+    - family: Hahmlet
+      fonts:
+        - asset: fonts/Hahmlet-VariableFont_wght.ttf
